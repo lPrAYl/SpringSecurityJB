@@ -1,0 +1,13 @@
+
+*out/
+*.DS_Store
+*.yaml
+*.bat
+*.gradle
+*build/
+*gradle/
+*gradlew
+*.gradle/
+*.idea/
+*Topics
+Scala Problems/*
